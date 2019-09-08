@@ -1,0 +1,11 @@
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\bin\Debug\netcoreapp2.1\SlcspSolution.deps.json
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\bin\Debug\netcoreapp2.1\SlcspSolution.runtimeconfig.json
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\bin\Debug\netcoreapp2.1\SlcspSolution.runtimeconfig.dev.json
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\bin\Debug\netcoreapp2.1\SlcspSolution.dll
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\bin\Debug\netcoreapp2.1\SlcspSolution.pdb
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\obj\Debug\netcoreapp2.1\SlcspSolution.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\obj\Debug\netcoreapp2.1\SlcspSolution.AssemblyInfoInputs.cache
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\obj\Debug\netcoreapp2.1\SlcspSolution.AssemblyInfo.cs
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\obj\Debug\netcoreapp2.1\SlcspSolution.dll
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\obj\Debug\netcoreapp2.1\SlcspSolution.pdb
+C:\Users\Sean\source\repos\SlcspSolution\SlcspSolution\obj\Debug\netcoreapp2.1\SlcspSolution.csprojAssemblyReference.cache
